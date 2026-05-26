@@ -3,7 +3,7 @@ import axios from "axios";
 import { IApod } from "../../types/types";
 import { RootState } from "../../store";
 
-const apiKey = "ppaoZpc5ci0ycvYXqDLiR1l9u9SqgV1hqALMT802&thumbs";
+const apiKey = "eWusmTnHQUUtbc1Ua19qfKGpsvLhU3ojpDla7GFx&thumbs";
 const link = "planetary/apod?";
 let filterValues = "";
 
